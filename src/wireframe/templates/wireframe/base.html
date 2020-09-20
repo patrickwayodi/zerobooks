@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+{% load staticfiles %}
+<html lang="en">
+
+{% include "wireframe/head.html" %}
+
+<body>
+
+{% include "wireframe/navbar.html" %}
+
+{% block content %}
+{% endblock %}
+
+{% include "wireframe/footer.html" %}
+
+<!-- Bootstrap core JavaScript -->
+<script src="{% static 'wireframe/js/jquery.slim.min.js' %}"></script>
+<script src="{% static 'wireframe/js/bootstrap.bundle.min.js' %}"></script>
+
+</body>
+
+</html>
+

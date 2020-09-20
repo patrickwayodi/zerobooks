@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+{% load staticfiles %}
+<html lang="en">
+
+{% include "feed/head.html" %}
+
+<body>
+
+{% include "feed/navbar.html" %}
+
+{% block content %}
+{% endblock %}
+
+{% include "feed/footer.html" %}
+
+<!-- Bootstrap core JavaScript -->
+<script src="{% static 'feed/js/jquery.min.js' %}"></script>
+<script src="{% static 'feed/js/bootstrap.bundle.min.js' %}"></script>
+
+  
+</body>
+
+</html>
+
+

@@ -1,0 +1,39 @@
+[
+    {
+        "model": "tournaments.tournament",
+        "pk": 1,
+        "fields": {
+            "tournament_name": "2019 Kenya National Blitz Chess Championship",
+            "venue": "Nairobi",
+            "tournament_date": "17th November 2019"            
+        }
+    },
+    {
+        "model": "tournaments.tournament",
+        "pk": 2,
+        "fields": {
+            "tournament_name": "2019 Kenya National Rapid Chess Championship",
+            "venue": "Nairobi",
+            "tournament_date": "16th November 2019"                                    
+        }
+    },     
+    {
+        "model": "tournaments.tournament",
+        "pk": 3,
+        "fields": {
+            "tournament_name": "2019 Kenya National Rapid Chess Championship",
+            "venue": "Nairobi",
+            "tournament_date": "16th November 2019"                        
+        }
+    },   
+    {
+        "model": "tournaments.tournament",
+        "pk": 4,
+        "fields": {
+            "tournament_name": "2019 Kenya National Rapid Chess Championship",
+            "venue": "Nairobi",
+            "tournament_date": "16th November 2019"                                    
+        }
+    }  
+]
+
