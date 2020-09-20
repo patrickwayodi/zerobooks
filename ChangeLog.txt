@@ -1,0 +1,12 @@
+2020-09-20: Version 0.1.4
+- Created the "feed" django app for zerobooks for displaying a list of books
+      Used a template from startbootstrap
+          https://startbootstrap.com/templates/shop-homepage/
+            
+2020-08-04: Version 0.1.3
+- Created the django project and two django apps.
+      zerobooks, csoon, wireframe
+
+2020-08-02: Version 0.1.2
+- Created the basic files for the project.
+
