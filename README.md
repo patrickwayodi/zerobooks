@@ -7,10 +7,10 @@ ZeroBooks is a software project for the buying and selling of books.
 It's implemented in Python and Django.
 
 Desired Features:
-    - Search Engine
-    - Visitor Statistics and Trends
-    - Uploading of Books
-    - Downloading of Books
+- Search Engine
+- Visitor Statistics and Trends
+- Uploading of Books
+- Downloading of Books
     - User Accounts and Profiles
     - Shopping Cart
     - Payment Systems
